@@ -1,7 +1,7 @@
 # motivational-quotes
 This app is a simple web application that gives you inspirational quotes to uplift, motivate and inspire you.
 
-##Installation
+## Installation
 ```
 # Clone the repository
 git clone https://github.com/alimammadlii/motivational-quotes.git
@@ -12,7 +12,7 @@ cd motivational-quotes
 ## Install dependencies
 npm install
 ```
-##Usage
+## Usage
 ```
 #You can start the server by running:
 node index.js
